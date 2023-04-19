@@ -219,5 +219,6 @@ Content Cell  | Content Cell
 
  # Семинар 3
 
-## Работа с GitHub
+## Работа с GitHub (GH)
 
+### Подключение удаленного репозитория к GH
