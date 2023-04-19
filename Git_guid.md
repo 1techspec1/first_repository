@@ -227,3 +227,22 @@ Content Cell  | Content Cell
 ```fix 
 git branch -M main
 ```
+
+2 - в УР проверка привязки
+```fix
+git remote -v
+```
+
+3 - если нет привязки, происходит просто переход на следующую строку, после чего копируем из GH
+```fix
+git remote add origin https://github.com/1techspec1/first_repository.git
+```
+
+и прописываем в терминале УР. 
+
+*Вместо ***origin*** можно прописать никнейм пользователя, которому нужно дать доступ*
+
+4 - копируем из GH и вставляем в терминал УР
+```fix
+git push -u origin main
+```
