@@ -219,3 +219,5 @@ Content Cell  | Content Cell
 
  # Семинар 3
 
+## Работа с GitHub
+
