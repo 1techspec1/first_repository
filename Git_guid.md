@@ -246,3 +246,5 @@ git remote add origin https://github.com/1techspec1/first_repository.git
 ```fix
 git push -u origin main
 ```
+
+Эта строка добавленна для теста функциональности
